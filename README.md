@@ -1,3 +1,5 @@
+![alt text] (https://ibb.co/vCXMKXk5)
+
 # 💫 About Me:
 I am a Computer Science Engineering student at IEM, Kolkata (Graduating 2026), passionate about Full-Stack Development, Machine Learning, and Artificial Intelligence. With hands-on experience in MERN stack (MongoDB, Express.js, React.js, Node.js) and ML/DL projects.<br>🎯 What I’m Looking For:<br>I am seeking internship or job opportunities in Software Development, Full-Stack Development, or AI/ML roles where I can apply my skills and contribute to innovative projects.<br><br>📩 Let’s Connect!<br>🔹 Open to internships, collaborations, and freelance opportunities<br>🔹 Feel free to connect or message me for networking and opportunities
 
