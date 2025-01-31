@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/vCXMKXk5)
+![alt text](https://i.postimg.cc/gj9QMJ28/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png)
 
 
 # 💫 About Me:
